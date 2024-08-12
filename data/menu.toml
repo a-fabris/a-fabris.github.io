@@ -17,6 +17,10 @@ title = "all posts"
   show_more_text = "See archive..."
   show_more_url = "posts"
 
+[[entries]]
+title = "Quotes"
+url = "./quotes"
+
 #[[entries]]
 #title = "posts by category"
 #

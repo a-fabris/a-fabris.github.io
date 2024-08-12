@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fabris.xyz Web Log</title>
+    <link>http://localhost:1313/quotes/</link>
+    <description>Recent content on fabris.xyz Web Log</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 21:12:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fabrizio adunque fu</title>
+      <link>http://localhost:1313/quotes/fabrizio-adunque-fu/</link>
+      <pubDate>Mon, 12 Aug 2024 21:12:26 +0200</pubDate>
+      <guid>http://localhost:1313/quotes/fabrizio-adunque-fu/</guid>
+      <description>Fabrizio adunque fu, secondo i tempi e il luogo, di tutti quegli onori che si poterono maggiori onorato; ma passati i conviviali piaceri e levate le tavole e consumato ogni ordine di festeggiare, il quale, nel cospetto degli uomini grandi e che a pensieri onorevoli abbiano la mente volta si consuma tosto.&#xA;&amp;ndash; Niccolò Machiavelli, Dell&amp;rsquo;arte della guerra</description>
+    </item>
+  </channel>
+</rss>
