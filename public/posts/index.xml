@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fabris.xyz Web Log</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on fabris.xyz Web Log</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2024 22:34:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotables</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 28 Jun 2024 22:34:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction In this post I will collect all the quotes that I find interesting or hold a special meaning to me. I imagine I&amp;rsquo;ll come back here from time to time to find inspiration and motivation.&#xA;Hos successus alit: possunt, quia posse videntur.&#xA;&amp;ndash; Publius Vergilius Maro</description>
+    </item>
+  </channel>
+</rss>

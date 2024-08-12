@@ -1,0 +1,4 @@
+baseURL = 'https://fabris.xyz/'
+languageCode = 'en-us'
+title = 'fabris.xyz Web Log'
+theme = 'no-style-please'
