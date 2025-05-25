@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on fabris.xyz Web Log</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on fabris.xyz Web Log</description>
+    <title>Posts on Terminal</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 May 2025 19:40:44 +0200</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 25 May 2025 19:40:44 +0200</pubDate>
+      <guid>/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Kind of inspired by Network Chuck post on yt about why you need a website RIGHT NOW. I figured that if I start documenting my journey I could make a difference in someone&amp;rsquo;s life. I can document my learnings and interesting things I find along the way. That&amp;rsquo;s that, document my process.&#xA;Worst thing that can happen is that nothing will happen. Regardless, this is content that I own so I am not at the mercy of whatever big tech social media platform that one day can decide to take down my stuff.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
