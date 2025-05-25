@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/quotes/</link>
+    <link>https://fabris.xyz/quotes/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Aug 2024 21:12:26 +0200</lastBuildDate>
-    <atom:link href="/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fabris.xyz/quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fabrizio adunque fu</title>
-      <link>/quotes/fabrizio-adunque-fu/</link>
+      <link>https://fabris.xyz/quotes/fabrizio-adunque-fu/</link>
       <pubDate>Mon, 12 Aug 2024 21:12:26 +0200</pubDate>
-      <guid>/quotes/fabrizio-adunque-fu/</guid>
+      <guid>https://fabris.xyz/quotes/fabrizio-adunque-fu/</guid>
       <description>&lt;p&gt;Fabrizio adunque fu, secondo i tempi e il luogo, di tutti quegli onori che si poterono maggiori onorato; &lt;em&gt;ma passati i conviviali piaceri e levate le tavole e consumato ogni ordine di festeggiare, il quale, nel cospetto degli uomini grandi e che a pensieri onorevoli abbiano la mente volta si consuma tosto.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;Niccolò Machiavelli, Dell&amp;rsquo;arte della guerra&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

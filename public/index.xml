@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/</link>
+    <link>https://fabris.xyz/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 May 2025 19:40:44 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fabris.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://fabris.xyz/posts/my-first-post/</link>
       <pubDate>Sun, 25 May 2025 19:40:44 +0200</pubDate>
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://fabris.xyz/posts/my-first-post/</guid>
       <description>&lt;p&gt;Kind of inspired by Network Chuck post on yt about why you need a website RIGHT NOW. I figured that if I start documenting my journey I could make a difference in someone&amp;rsquo;s life. I can document my learnings and interesting things I find along the way. That&amp;rsquo;s that, document my process.&#xA;Worst thing that can happen is that nothing will happen. Regardless, this is content that I own so I am not at the mercy of whatever big tech social media platform that one day can decide to take down my stuff.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://fabris.xyz/about/</link>
       <pubDate>Sun, 25 May 2025 19:39:24 +0200</pubDate>
-      <guid>/about/</guid>
+      <guid>https://fabris.xyz/about/</guid>
       <description>&lt;p&gt;Hi, I’m Andrea Fabris — computer scientist. I like to render pixels on screen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fabrizio adunque fu</title>
-      <link>/quotes/fabrizio-adunque-fu/</link>
+      <link>https://fabris.xyz/quotes/fabrizio-adunque-fu/</link>
       <pubDate>Mon, 12 Aug 2024 21:12:26 +0200</pubDate>
-      <guid>/quotes/fabrizio-adunque-fu/</guid>
+      <guid>https://fabris.xyz/quotes/fabrizio-adunque-fu/</guid>
       <description>&lt;p&gt;Fabrizio adunque fu, secondo i tempi e il luogo, di tutti quegli onori che si poterono maggiori onorato; &lt;em&gt;ma passati i conviviali piaceri e levate le tavole e consumato ogni ordine di festeggiare, il quale, nel cospetto degli uomini grandi e che a pensieri onorevoli abbiano la mente volta si consuma tosto.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;Niccolò Machiavelli, Dell&amp;rsquo;arte della guerra&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
