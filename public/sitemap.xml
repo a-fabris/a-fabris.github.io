@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fabris.xyz/posts/</loc>
-    <lastmod>2025-05-26T07:38:05+02:00</lastmod>
-  </url><url>
-    <loc>https://fabris.xyz/tags/projects/</loc>
-    <lastmod>2025-05-26T07:38:05+02:00</lastmod>
-  </url><url>
-    <loc>https://fabris.xyz/posts/resuming-a-project/</loc>
-    <lastmod>2025-05-26T07:38:05+02:00</lastmod>
-  </url><url>
-    <loc>https://fabris.xyz/tags/</loc>
-    <lastmod>2025-05-26T07:38:05+02:00</lastmod>
-  </url><url>
-    <loc>https://fabris.xyz/</loc>
-    <lastmod>2025-05-26T07:38:05+02:00</lastmod>
-  </url><url>
     <loc>https://fabris.xyz/tags/misc/</loc>
     <lastmod>2025-05-25T19:40:44+02:00</lastmod>
   </url><url>
     <loc>https://fabris.xyz/posts/my-first-post/</loc>
+    <lastmod>2025-05-25T19:40:44+02:00</lastmod>
+  </url><url>
+    <loc>https://fabris.xyz/posts/</loc>
+    <lastmod>2025-05-25T19:40:44+02:00</lastmod>
+  </url><url>
+    <loc>https://fabris.xyz/tags/</loc>
+    <lastmod>2025-05-25T19:40:44+02:00</lastmod>
+  </url><url>
+    <loc>https://fabris.xyz/</loc>
     <lastmod>2025-05-25T19:40:44+02:00</lastmod>
   </url><url>
     <loc>https://fabris.xyz/about/</loc>
