@@ -14,4 +14,4 @@ hideComments = true
 +++
 
 Kind of inspired by Network Chuck post on yt about why you need a website RIGHT NOW. I figured that if I start documenting my journey I could make a difference in someone's life. I can document my learnings and interesting things I find along the way. That's that, document my process.
-Worst thing that can happen is that nothing will happen. Regardless, this is content that I own so I am not at the mercy of whatever big tech social media platform that one day can decide to take down my stuff.
+Worst thing that can happen is that nothing will happen. I also like the sense of ownership as opposed to hosting my words and thoughts on social media landlords.
