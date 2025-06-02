@@ -94,7 +94,7 @@ canonifyURLs = true
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "fabris.xyz web log"
         logoHomeLink = "/"
 
       [languages.en.menu]
