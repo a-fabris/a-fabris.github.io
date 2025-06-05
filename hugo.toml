@@ -102,4 +102,7 @@ canonifyURLs = true
           identifier = "about"
           name = "About"
           url = "/about"
-
+        [[languages.en.menu.main]]
+          identifier = "github"
+          name = "Github"
+          url = "https://github.com/a-fabris/"
